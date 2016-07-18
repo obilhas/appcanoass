@@ -1,4 +1,4 @@
-package p2utils;
+package prokemons.alugerdekayak.p2utils;
 
 class Node<E> {
 
